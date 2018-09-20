@@ -6,6 +6,6 @@ import (
 
 func main() {
 
-	fmt.Println("Test02")
+	fmt.Println("Test02-02")
 
 }
